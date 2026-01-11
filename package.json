@@ -11,11 +11,11 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/NiharMondal/react-slider.git"
+		"url": "https://github.com/NiharMondal/react-slider-input.git"
 	},
-	"homepage": "https://github.com/NiharMondal/react-slider#readme",
+	"homepage": "https://github.com/NiharMondal/react-slider-input#readme",
 	"bugs": {
-		"url": "https://github.com/NiharMondal/react-slider/issues"
+		"url": "https://github.com/NiharMondal/react-slider-input/issues"
 	},
 	"keywords": [
 		"react",
