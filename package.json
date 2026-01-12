@@ -12,18 +12,18 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NiharMondal/react-slider.git"
+        "url": "https://github.com/NiharMondal/react-slider-range.git"
     },
-    "homepage": "https://github.com/NiharMondal/react-slider#readme",
+    "homepage": "https://github.com/NiharMondal/react-slider-range#readme",
     "bugs": {
-        "url": "https://github.com/NiharMondal/react-slider/issues"
+        "url": "https://github.com/NiharMondal/react-slider-range/issues"
     },
     "keywords": [
         "react",
         "slider",
         "range",
         "component",
-        "react-slider",
+        "react-slider-range",
         "react-range",
         "range-slider",
         "slider-range",
